@@ -5,8 +5,8 @@
 3. Создать [новый](https://github.com/new) гит пеозиторий
 4. Зарегистрирвать [домен](https://cp.beget.com/domains) и создать [FTP-доступы](https://cp.beget.com/ftp)
 5. Создать чат в телеграм **Проект "ProjectName" / DEV** со всеми исполнителями и менеджерами, создать иконку чата и добавить чат в папку "Работа"
-
-  ![image](https://user-images.githubusercontent.com/22715126/140881250-318ef022-872f-4e4a-96c0-47a13fb6fbf0.png)
+  
+    ![image](https://user-images.githubusercontent.com/22715126/140881250-318ef022-872f-4e4a-96c0-47a13fb6fbf0.png)
  
 7. Собрать все ссылки в папке закладок браузера, все доступы в txt-файле и в закрепе в чате:  
   **ДОСТУПЫ**  
@@ -19,4 +19,4 @@
 8. Выбрать один из сборщиков из [регламента по фронту](https://github.com/saimon322/frontend-builder-rules) и добавить его в папку assets
 9. Запушить собранный проект в гит
 
-  ![image](https://user-images.githubusercontent.com/22715126/140881408-1997c00d-d921-4e2b-8362-a4ce163bbd12.png)
+    ![image](https://user-images.githubusercontent.com/22715126/140881408-1997c00d-d921-4e2b-8362-a4ce163bbd12.png)
