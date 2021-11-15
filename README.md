@@ -16,9 +16,10 @@
   Макеты:  
   FTP/SFTP:  
   GIT:
-7. Скачать нулевую версию WP из [регламента по бэку](https://github.com/dev-kick/wp-theme-rules)
-8. Выбрать один из сборщиков из [регламента по фронту](https://github.com/saimon322/frontend-builder-rules) и добавить его в папку assets
-9. Запушить собранный проект в гит
+7. Создать папку проекта в папке "Проекты" и сохранить ярлык на рабочем столе
+8. Скачать нулевую версию WP из [регламента по бэку](https://github.com/dev-kick/wp-theme-rules)
+9. Выбрать один из сборщиков из [регламента по фронту](https://github.com/saimon322/frontend-builder-rules) и добавить его в папку assets
+10. Запушить собранный проект в гит
 
     ![image](https://user-images.githubusercontent.com/22715126/140881408-1997c00d-d921-4e2b-8362-a4ce163bbd12.png)
     
