@@ -24,3 +24,5 @@
     ![image](https://user-images.githubusercontent.com/22715126/140881408-1997c00d-d921-4e2b-8362-a4ce163bbd12.png)
     
 10. Закрыть сайт от индексации
+  - папка libs/close_index
+  - обновить домен
