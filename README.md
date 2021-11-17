@@ -47,17 +47,17 @@
 
 ---
 
-Тестовый домен (WordPress):
+Тестовый домен (WordPress):  
 https://tomaso.one-pix.ru/
 
-Верстка с навигацией по страницам:
+Верстка с навигацией по страницам:  
 https://tomaso.one-pix.ru/wp-content/themes/tomaso/assets/dist/index.html
 
-Авторизация для доступа к сайту:
-onepix
+Авторизация для доступа к сайту:  
+onepix  
 close_index
 
-WP админ-панель:
-https://tomaso.one-pix.ru/wp-login
-admin
+WP админ-панель:  
+https://tomaso.one-pix.ru/wp-login  
+admin  
 1234554321
