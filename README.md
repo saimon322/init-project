@@ -12,18 +12,18 @@
     ![image](https://user-images.githubusercontent.com/22715126/140881250-318ef022-872f-4e4a-96c0-47a13fb6fbf0.png)
  
 7. Собрать все ссылки в папке закладок браузера, все доступы в txt-файле и в закрепе в чате:  
-  **ДОСТУПЫ**  
-  Домен  
-  onepix  
-  close_index
+    **ДОСТУПЫ**  
+    Домен  
+    onepix  
+    close_index
   
-  ТЗ и оценка:
+    ТЗ и оценка:
   
-  Макеты:
+    Макеты:
   
-  FTP/SFTP:
+    FTP/SFTP:
   
-  GIT:
+    GIT:
 7. Создать папку проекта в папке "Проекты" и сохранить ярлык на рабочем столе
 8. Скачать нулевую версию WP из [регламента по бэку](https://github.com/dev-kick/wp-theme-rules)
 9. Выбрать один из сборщиков из [регламента по фронту](https://github.com/saimon322/frontend-builder-rules) и добавить его в папку assets
