@@ -33,6 +33,7 @@
 13. Закрыть сайт от индексации
   - папка libs/close_index
   - обновить домен в .httacess
+14. Добавить сайт в [таблицу серверов](https://docs.google.com/spreadsheets/d/1pjO0auYLbv7Voc-9YABIZUMxmMVH9hXv67iHFQfluS4/edit#gid=0)
 
 ## Отчет заказчику
 
